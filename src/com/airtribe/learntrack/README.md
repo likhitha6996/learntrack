@@ -2,7 +2,7 @@
 
 LearnTrack is a robust, console-based Java application designed to manage students, courses, and enrollments using a clean **layered architecture** and strict **Object-Oriented Programming (OOP)** principles.
 
-## Features
+## Features...
 - **Student Management:** Add, view, search by ID, and deactivate students.
 - **Course Management:** Add, view, and toggle active/inactive status for courses.
 - **Enrollment Management:** Enroll students in courses, view active enrollments, and update statuses (`ACTIVE`, `COMPLETED`, `CANCELLED`).
